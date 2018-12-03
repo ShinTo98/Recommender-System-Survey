@@ -1,2 +1,4 @@
 
 *.json
+*.json.gz
+.ipynb_checkpoints
