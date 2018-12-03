@@ -1,8 +1,4 @@
 
 *.json
-<<<<<<< HEAD
 *.json.gz
 .ipynb_checkpoints
-=======
-.ipynb_checkpoints/exploratory_analysis-checkpoint.ipynb
->>>>>>> 1180a73e195c34c24958390068ffed13e6fa7292
