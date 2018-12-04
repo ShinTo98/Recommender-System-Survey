@@ -1,3 +1,4 @@
 
 *.json
-.ipynb_checkpoints/exploratory_analysis-checkpoint.ipynb
+*.json.gz
+.ipynb_checkpoints
